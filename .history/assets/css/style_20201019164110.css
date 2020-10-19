@@ -20,8 +20,8 @@ h1, h2, h3, h4, h5, h6 {
 }
 
 iframe{
-   width: 100%;
-   height: 50vh;
+   width: 600;
+   height: 450;
 }
 /*--------------------------------------------------------------
 # Back to top button
@@ -396,11 +396,11 @@ iframe{
   }
 
   iframe {
-    width: 500;
+    width: 300;
     height: 300;
  }
+  }
 }
-
 
 @media (max-width: 480px) {
   #hero img{
